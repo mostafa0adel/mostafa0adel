@@ -6,5 +6,5 @@
 
 -<strong>🏫 From Giza, Egypt.<strong><br/>
 -👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University.<br/>
--Interested in Problem solving, .NET BackEnd,Software Engineering.<br/>
+- .NET BackEnd Devloper ,Software Engineering.<br/>
 
