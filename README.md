@@ -4,7 +4,7 @@
 **mostafa0adel/mostafa0adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
--🏫 <b>From Giza, Egypt<b>.<br/>
+-🏫 <bold>From Giza, Egypt<bold>.<br/>
 -👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University.<br/>
 -Interested in Problem solving, .NET BackEnd,Software Engineering.<br/>
 
