@@ -5,7 +5,7 @@
 -->
 
 Here are some ideas to get you started:
--🏫 From Giza, Egypt
--👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University
+-🏫 From Giza, Egypt\n
+-👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University\n
 -Interested in Problem solving, .NET BackEnd,Software Engineering.
 
